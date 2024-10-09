@@ -1,13 +1,11 @@
 package calculator.src.main.java.com.example;
 
 public class Calculator {
-    int add(int a, int b) {
+    double add(double a, double b) {
         return a + b;
     }
 
-    int subtract(int a, int b) {
+    double subtract(double a, double b) {
         return a - b;
-    }
-
-    
+    }    
 }
